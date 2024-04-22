@@ -1,0 +1,17 @@
+#first{
+    background-color: black;
+   
+   }
+   .custom-link {
+       text-decoration: none; /* Remove underline by default */
+       color: grey; /* Set default text color */
+     }
+     
+     .custom-link:hover {
+      /* Add underline on hover */
+       color: white; /* Change text color on hover */
+     }
+     #custom-link:hover {
+       /* Add underline on hover */
+        color: white; /* Change text color on hover */
+      }
